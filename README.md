@@ -9,19 +9,21 @@
 
 
 ## Specialization Curriculum
-+ ### [Course_1_Foundations_of_Data_Science](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
-+ ### [Course_2_Get_Started_with_Python](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_3_Go_Beyond_the_Numbers_Translate_Data_into_Insights](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
-+ ### [Course_4_The_Power_of_Statistics](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
-+ ### [Course_5_Regression_Analysis_Simplify_Complex_Data_Relationships](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
-+ ### [Course_6_The_Nuts_and_Bolts_of_Machine_Learning](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
-+ ### [Course_7_Google_Advanced_Data_Analytics_Capstone](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
-
++ ### [Course_1_Microsoft_Azure_for_Data_Engineering](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
++ ### [Course_2_Data_Storage_in_Microsoft_Azure](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
++ ### [Course_3_Data_Integration_with_Microsoft_Azure_Data_Factory](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_4_Introduction_to_Microsoft_Azure_Synapse_Analytics](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
++ ### [Course_5_Data_Warehousing_with_Microsoft_Azure_Synapse_Analytics](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
++ ### [Course_6_Data_Engineering_with_MS_Azure_Synapse_Apache_Spark_Pools](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_7_Operational_Analytics_with_Microsoft_Azure_Synapse_Analytics](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
++ ### [Course_8_Microsoft_Azure_Databricks_for_Data_Engineering](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
++ ### [Course_9_Azure_Data_Lake_Storage_Gen2_and_Data_Streaming_Solution](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_10_Prepare_for_DP_203_Data_Engineering_on_Microsoft_Azure_Exam](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
 
 
 
 ## Explore More
-Certificate link: https://www.coursera.org/account/accomplishments/professional-cert/VFPG9Q6SQR5F
+Certificate link: https://www.coursera.org/account/accomplishments/professional-cert/MFJ3CW5E7H2P
 
 ![Certificate](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_Google%20Advanced%20Data%20Analytics.jpg)
 
