@@ -26,20 +26,3 @@ Certificate link: https://www.coursera.org/account/accomplishments/professional-
 
 ![Certificate](https://github.com/ktchan33GBC/Microsoft-Azure-Data-Engineering-Associate-DP-203-Professional-Certificate/blob/main/img/Specialization_Certificate_Coursera_Microsoft_Azure_Data_Engineering_Associate_DP_203_Professional_Certificate.jpg)
 
-<!-- USAGE EXAMPLES -->
-
-## Important Project
-
-
-### Providing data-driven suggestions for HR of Salifort Motors to deal with high employee retention rate
-[Notebook](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/Captstone_Proj_Salifort_Motors_employee_retention.ipynb)
-
-
-+ Assisted Salifort Motors in predicting employee attrition and identifying departure reasons using predictive models, including regression, Decision Tree, and Random Forest models.
-+ Conducted a comparison of feature importance between the Random Forest and Decision Tree models for employee attrition analysis.
-+ Presented concise one-page project insights to external stakeholders as the data professional at Salifort Motors.
-
-
-![Result](https://github.com/ktchan33GBC/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Course_7_Google_Advanced_Data_Analytics_Capstone/result_executive_summary.jpg)
-
-
